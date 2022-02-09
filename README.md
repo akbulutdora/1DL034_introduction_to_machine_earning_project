@@ -1,4 +1,4 @@
-# 1DL034_introduction_to_machine_earning_project
+# 1DL034_introduction_to_machine_learning_project
 Worked on a machine learning group project at Uppsala University in the spring of 2021.
 
 In the course of this work, we mastered and improved our skills of working with training
